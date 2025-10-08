@@ -1,0 +1,12 @@
+{
+  "name": "SuperBeltfedQuantumBiomassGenerator",
+  "version": "1.0.0",
+  "sml_version": "3.7.1",
+  "description": "Generador cuántico de biomasa avanzada con núcleo universal. Produce hasta 500 Yottavatios utilizando cualquier combustible transportable.",
+  "Category": "Power",
+  "authors": ["Novato1403"],
+  "dependencies": {},
+  "objects": [],
+  "maps": [],
+  "scripts": ["Scripts/init.lua"]
+}
